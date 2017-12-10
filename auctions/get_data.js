@@ -13,10 +13,11 @@ casper.start(url);
 
 casper.waitForSelector('form', function() {
   this.fillSelectors('form', {
-    'select[id="Type"]': '2', // Nieruchomość
-    'select[id="CategoryId"]': '30', // Mieszkania
+    'select[id="Type"]': '1', // Nieruchomość
+    'select[id="PropertyCategoryId"]': '30', // Mieszkania
     'input[name="City"]': 'Gdańsk',
   }, true);
+  this.echo(JSON.stringify(this.getFormValues('form')));
   this.echo("submitted");
 });
 
@@ -33,13 +34,14 @@ get_column = function(casper, nr) {
   }, nr);
 }
 no_comma = function(x) {
-  return x.replace(',', '');
+  return x.replace(',', ';');
 }
 casper.then(function() {
   var name = get_column(this, 5).map(function(x) {
     var m = x.match(/<div>(.*)<\/div>/);
     return m[1];
   }).map(no_comma);
+  console.log(name);
   var price = get_column(this, 7).map(function(x) {
     var m = x.replace(/\s\s+/g, ' ').replace("&nbsp;", '');
     return m;
