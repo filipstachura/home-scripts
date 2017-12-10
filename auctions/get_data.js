@@ -34,7 +34,7 @@ get_column = function(casper, nr) {
   }, nr);
 }
 no_comma = function(x) {
-  return x.replace(',', ';');
+  return x.replace(/,/g, ';');
 }
 casper.then(function() {
   var name = get_column(this, 5).map(function(x) {
