@@ -31,7 +31,7 @@ send_update <- function(conent) {
   pass <- readLines(".gmail.pass")[1]
 
   from <- "fylyps@gmail.com"
-  to <- c(from)
+  to <- c(from, 'kwkamilakw@gmail.com')
 
   send.mail(from = from,
             to = to,
