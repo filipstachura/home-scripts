@@ -1,4 +1,5 @@
 #!/bin/bash
+PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin
 
 echo "First get data"
 rm -f export.csv
