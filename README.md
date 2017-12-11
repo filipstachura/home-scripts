@@ -17,5 +17,5 @@ R -e "install.packages('mailR')"
 
 Add to crontab:
 ```
-00 * * * * cd ~/.home-scripts/auctions/; ./send_update.sh
+00 * * * * cd ~/.home-scripts/; ./hourly.sh
 ```

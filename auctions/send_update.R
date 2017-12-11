@@ -3,7 +3,7 @@ library(purrr)
 library(purrrlyr)
 library(dplyr)
 
-source('../mails/send_mail.R')
+source('../mails/send_mail.R', chdir = TRUE)
 
 parse_price <- function(price) {
   price %>%
