@@ -1,8 +1,9 @@
-library(mailR)
 library(lubridate)
 library(purrr)
 library(purrrlyr)
 library(dplyr)
+
+source('../mails/send_mail.R')
 
 parse_price <- function(price) {
   price %>%
@@ -27,24 +28,6 @@ prepare_content <- function() {
   paste("<html>", content, "</html>")
 }
 
-send_update <- function(conent) {
-  pass <- readLines(".gmail.pass")[1]
-
-  from <- "fylyps@gmail.com"
-  to <- c(from, 'kwkamilakw@gmail.com')
-
-  send.mail(from = from,
-            to = to,
-            subject = paste("Housing:", today()),
-            body = content,
-            html = TRUE,
-            encoding = "utf-8",
-            smtp = list(host.name = "smtp.gmail.com", port = 465,
-                        user.name = "fylyps", passwd = pass, ssl = TRUE),
-            authenticate = TRUE,
-            send = TRUE)
-}
-
 content <- prepare_content()
-print(content)
-send_update(content)
+title <- paste("Housing:", today())
+send_update(title, content)
