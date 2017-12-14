@@ -26,6 +26,10 @@ casper.waitForSelector('form', function() {
   this.echo("submitted");
 });
 
+casper.waitForSelector('a.lock-screen.kslider-next', function() {
+  this.click('a.lock-screen.kslider-next');
+})
+
 var get_nutritional_plan = function() {
   var extract_ingredient = function(i, elem) {
     return {
