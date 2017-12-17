@@ -11,14 +11,15 @@ var parse_basket = function(basket) {
       return x.split(",");
     })
     .filter(function(x) {
-      return (x.length == 3);
+      return (x.length == 4);
     })
     .slice(1)
     .map(function(x) {
       return {
         name: x[0],
-        full_name: x[1],
-        grams: x[2]
+        shop_id: JSON.parse(x[1]),
+        full_name: x[2],
+        grams: x[3]
       }
     })
   return products;
@@ -40,23 +41,34 @@ casper.on('remote.message', function(msg) {
 login_piotripawel();
 
 add_to_cart_product = function(product) {
-  casper.waitForSelector('.FormSzukaj', function() {
-    console.log("Searching for: " + product)
-    this.fillSelectors('.FormSzukaj', {
-      'input[name="query"]': product,
-    }, true);
-  })
+  if (product.shop_id) {
+    var url = "https://m.e-piotripawel.pl/towar/" + product.shop_id;
+    casper.thenOpen(url, function() {
+      console.log("Opening " + url);
+    casper.waitForSelector('#add_to_cart', function() {
+      this.click('#add_to_cart');
+      console.log("added");
+    })
+    })
+  } else {
+    casper.waitForSelector('.FormSzukaj', function() {
+      console.log("Searching for: " + product.name)
+      this.fillSelectors('.FormSzukaj', {
+        'input[name="query"]': product.name,
+      }, true);
+    })
 
-  casper.waitForSelector('#searchbar-summary', function() {
-    console.log("Search results visible");
-    this.click('.center_column .add-to-cart');
-    console.log("added");
-  })
+    casper.waitForSelector('#searchbar-summary', function() {
+      console.log("Search results visible");
+      this.click('.center_column .add-to-cart');
+      console.log("added");
+    })
+  }
 }
 
 products
   .map(function(product) {
-    add_to_cart_product(product.name);
+    add_to_cart_product(product);
   })
 
 casper.run(function() {

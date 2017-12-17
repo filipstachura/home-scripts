@@ -1,61 +1,58 @@
 "food","shop_id","full","grams"
-"Pomidor","pomidor-czerwony/208526"," Pomidor ",2660
-"Rzodkiewka",""," Rzodkiewka (8.4 sztuk) ",126
-"Papryka czerwona",""," Papryka czerwona (1.8 sztuki) ",350
-"Szczypiorek pęczek",""," Szczypiorek pęczek (1.4 pęczek) ",56
-"Brokuły",""," Brokuły ",630
-"Marchew",""," Marchew ",826
-"Cebula",""," Cebula (2.4 sztuki) ",217
-"Chrzan",""," Chrzan (5.6 łyżeczki) ",56
-"Mix sałat",""," Mix sałat (2.8 porcje) ",112
-"Ziemniaki",""," Ziemniaki (4.2 sztuki) ",315
-"Seler korzeniowy",""," Seler korzeniowy ",28
-"Pietruszka, korzeń",""," Pietruszka, korzeń ",28
-"Natka pietruszki siekana",""," Natka pietruszki siekana (2.8 łyżeczki) ",16.8
-"Pomidory w puszce",""," Pomidory w puszce (0.9 szklanki) ",268.8
-"Jabłko",""," Jabłko ",1358
-"Banan",""," Banan ",168
-"Kiwi",""," Kiwi (5.6 sztuki) ",420
-"Morele",""," Morele (9.8 sztuk) ",441
-"Dżem truskawkowy, niskosłodzony",""," Dżem truskawkowy, niskosłodzony ",42
-"Oliwki czarne marynowane",""," Oliwki czarne marynowane (25.2 sztuk) ",63
-"Truskawki mrożone",""," Truskawki mrożone ",140
-"Mleko UHT, 1,5% tłuszczu",""," Mleko UHT, 1,5% tłuszczu (4.5 szklanki) ",1008
-"Ser twarogowy chudy",""," Ser twarogowy chudy (5.6 łyżki stołowe) ",112
-"Mozzarella",""," Mozzarella (22.4 plastrów) ",336
-"Jogurt naturalny 2% tłuszczu",""," Jogurt naturalny 2% tłuszczu (30.3 łyżki stołowej) ",756
-"Serek wiejski 'light'",""," Serek wiejski ""light"" (31.5 łyżki stołowej) ",630
-"Ser Gouda",""," Ser Gouda (2.8 plastry) ",70
-"Serek topiony w trójkącikach",""," Serek topiony w trójkącikach (5.6 sztuki) ",140
-"Kefir 2% tłuszczu",""," Kefir 2% tłuszczu (2.8 szklanki) ",672
-"Polędwica sopocka",""," Polędwica sopocka ",386.4
-"Wołowina, polędwica mielona",""," Wołowina, polędwica mielona (1.4 szklanka) ",280
-"Mięso z piersi kurczaka, bez skóry",""," Mięso z piersi kurczaka, bez skóry ",700
-"Chleb żytni razowy",""," Chleb żytni razowy (37.8 kromek) ",1512
-"Chleb chrupki",""," Chleb chrupki ",56
-"Kajzerki",""," Kajzerki (0.7 sztuki) ",35
-"Migdały",""," Migdały (21 sztuk) ",21
-"Migdały, płatki",""," Migdały, płatki (8.4 łyżek stołowych) ",84
-"Herbata, napar bez cukru",""," Herbata, napar bez cukru (7 szklanek) ",1680
-"Sok grejpfrutowy",""," Sok grejpfrutowy ",336
-"Woda mineralna niegazowana",""," Woda mineralna niegazowana (32.5 szklanki) ",7756
-"Margaryna miękka, 60% tłuszczu",""," Margaryna miękka, 60% tłuszczu (14.7 łyżeczki) ",72.8
-"Oliwa z oliwek",""," Oliwa z oliwek (9.8 łyżek stołowych) ",98
-"Musli z owocami suszonymi",""," Musli z owocami suszonymi (14 łyżek stołowych) ",140
-"Wafle ryżowe",""," Wafle ryżowe ",28
-"Płatki owsiane górskie",""," Płatki owsiane górskie (7 łyżek stołowych) ",70
-"Kasza gryczana sucha",""," Kasza gryczana sucha ",140
-"Ryż brązowy surowy",""," Ryż brązowy surowy ",44.8
-"Makaron razowy spaghetti, surowy",""," Makaron razowy spaghetti, surowy ",140
-"Cukier",""," Cukier (2.8 łyżeczki) ",16.8
-"Jaja kurze surowe",""," Jaja kurze surowe (2.8 sztuki) ",140
-"Zioła prowansalskie",""," Zioła prowansalskie (5.6 łyżeczki) ",16.8
-"Oregano",""," Oregano (5.6 łyżeczki) ",11.2
-"Majonez 'light'",""," Majonez ""light"" (2.8 łyżki stołowe) ",70
-"Czosnek duży",""," Czosnek duży (3.5 ząbka) ",18.2
-"Przyprawa 'Gyros'",""," Przyprawa ""Gyros"" (2.8 łyżeczki) ",14
-"Bazylia suszona",""," Bazylia suszona (1.4 łyżeczka) ",5.6
-"Sól o obniżonej zawartości sodu",""," Sól o obniżonej zawartości sodu (2.8 szczypty) ",1.4
-"Pieprz czarny",""," Pieprz czarny (0.7 szczypty) ",1.4
-"Bazylia świeża",""," Bazylia świeża (1.4 gałązka) ",7
-"Wywar warzywny",""," Wywar warzywny (4.9 szklanki) ",1176
+"Pomidor","pomidor-czerwony/208526"," Pomidor ",2716
+"Papryka czerwona","papryka-czerwona/208546"," Papryka czerwona (2.8 sztuki) ",560
+"Sałata masłowa",NA," Sałata masłowa (4.2 liście) ",21
+"Pomidory w puszce","pomidory-piotr-i-pawel-krojone-bez-skorki/253955"," Pomidory w puszce (1.4 szklanka) ",336
+"Marchew","marchew-luz/208541"," Marchew ",28
+"Cebula","cebula-luz/214659"," Cebula (0.9 sztuki) ",70
+"Natka pietruszki siekana","pietruszka-natka/208544"," Natka pietruszki siekana (3.5 łyżeczki) ",19.6
+"Sałata lodowa",NA," Sałata lodowa (22.4 liści) ",896
+"Kukurydza, konserwowa",NA," Kukurydza, konserwowa (8.4 łyżek stołowych) ",126
+"Ogórek szklarniowy",NA," Ogórek szklarniowy ",109.2
+"Ziemniaki","ziemniak-myty-2-5-kg/234098"," Ziemniaki (4.2 sztuki) ",315
+"Cebula czerwona",NA," Cebula czerwona ",84
+"Cebula dymka",NA," Cebula dymka (0.7 sztuki) ",14
+"Jabłko","jablka-ligol/265531"," Jabłko ",490
+"Banan","banany/208527"," Banan ",168
+"Kiwi","kiwi/208534"," Kiwi (4.2 sztuki) ",315
+"Mandarynki",NA," Mandarynki (2.8 sztuki) ",182
+"Morele","mandarynka/221942"," Morele (1.4 sztuka) ",63
+"Truskawki mrożone","truskawki/262591"," Truskawki mrożone ",350
+"Oliwki czarne marynowane","piotr-i-pawel-oliwki-czarne-drylowane/262904"," Oliwki czarne marynowane (29.4 sztuk) ",74.2
+"Mleko UHT, 1,5% tłuszczu","mleko-wiejskie-bez-laktozy-butelka/238876"," Mleko UHT, 1,5% tłuszczu (4.2 szklanki) ",966
+"Jogurt naturalny 2% tłuszczu","jogurt-naturalny-primo-bez-laktozy/277593"," Jogurt naturalny 2% tłuszczu (33.1 łyżki stołowej) ",826
+"Serek wiejski 'light'","serek-wiejski-naturalny/39081"," Serek wiejski ""light"" (10.5 łyżki stołowej) ",210
+"Ser Gouda","ser-gouda-serenada-lekka/216071"," Ser Gouda (5.6 plastry) ",140
+"Śmietana 12% tłuszczu",NA," Śmietana 12% tłuszczu (1.4 łyżka stołowa) ",25.2
+"Maślanka naturalna 0,5 % tłuszczu",NA," Maślanka naturalna 0,5 % tłuszczu (2.8 szklanki) ",672
+"Mozzarella","mozzarella-kula-piotr-i-pawel/251678"," Mozzarella (4.2 plastry) ",63
+"Kefir 2% tłuszczu","kefir-bez-laktozy-robico/281477"," Kefir 2% tłuszczu (1.4 szklanka) ",336
+"Polędwica sopocka","poledwica-sopocka-olewnik/223441"," Polędwica sopocka ",50.4
+"Szynka z piersi kurczaka",NA," Szynka z piersi kurczaka (25.2 plastrów) ",378
+"Mięso z piersi kurczaka, bez skóry","filet-z-piersi-kurczaka-swiezy/208619"," Mięso z piersi kurczaka, bez skóry ",560
+"Chleb żytni razowy","chleb-zytni-nadarzyn/282968"," Chleb żytni razowy (37.8 kromek) ",1512
+"Herbata, napar bez cukru","herbata-tetley-golden-czarna-100-2g/272443"," Herbata, napar bez cukru (5.6 szklanki) ",1344
+"Sok grejpfrutowy","sok-z-czerwonych-grejpfrutow-100/279799"," Sok grejpfrutowy ",336
+"Woda mineralna niegazowana",""," Woda mineralna niegazowana (23.8 szklanek) ",5712
+"Świeży sok grejpfrutowy",NA," Świeży sok grejpfrutowy ",672
+"Margaryna miękka, 60% tłuszczu","maslo-ekstra/211842"," Margaryna miękka, 60% tłuszczu (13.3 łyżeczki) ",67.2
+"Oliwa z oliwek","oliwa-salvadori-z-oliwek-sansa/211891"," Oliwa z oliwek (12.9 łyżki stołowej) ",130.2
+"Olej rzepakowy uniwersalny",NA," Olej rzepakowy uniwersalny (2.3 łyżki stołowej) ",23.8
+"Musli z owocami suszonymi","musli-wieloowocowe-benus/271155"," Musli z owocami suszonymi (14 łyżek stołowych) ",140
+"Wafle ryżowe","wafle-ryzowe-naturalne-piotr-i-pawel/266092"," Wafle ryżowe ",140
+"Płatki owsiane górskie","platki-owsiane-gorskie-piotr-i-pawel/262202"," Płatki owsiane górskie (4.2 łyżki stołowe) ",42
+"Ryż brązowy surowy","ryz-brazowy-dlugoziarnisty-bio-planet/234634"," Ryż brązowy surowy ",112
+"Łosoś wędzony na zimno",NA," Łosoś wędzony na zimno (2.8 płaty) ",70
+"Dorsz, świeży, filety bez skóry",NA," Dorsz, świeży, filety bez skóry ",168
+"Migdały, płatki","migdaly-kresto/13861"," Migdały, płatki (2.8 łyżki stołowe) ",28
+"Jajko kurze gotowane",NA," Jajko kurze gotowane (2.8 sztuki) ",140
+"Jaja kurze surowe","jajka-z-chowu-na-wolnym-wybiegu-l-piotr-i-pawel/269093"," Jaja kurze surowe (2.8 sztuki) ",140
+"Wywar warzywno-drobiowy",NA," Wywar warzywno-drobiowy (2.3 szklanki) ",504
+"Koncentrat pomidorowy, 30%",NA," Koncentrat pomidorowy, 30% (2.8 łyżeczki) ",42
+"Czosnek duży","czosnek-szt/262034"," Czosnek duży (5.6 ząbki) ",28
+"Sok z cytryny",NA," Sok z cytryny (4.5 łyżeczki) ",14
+"Koperek siekany",NA," Koperek siekany (0.7 łyżki stołowej) ",5.6
+"Rozmaryn suszony",NA," Rozmaryn suszony (2.1 łyżeczki) ",7
+"Sól o obniżonej zawartości sodu",""," Sól o obniżonej zawartości sodu (5.6 szczypty) ",2.8
+"Oregano",""," Oregano (9.8 łyżeczek) ",19.6
+"Zioła prowansalskie","piotr-i-pawel-ziola-prowansalskie/262476"," Zioła prowansalskie (5.6 łyżeczki) ",16.8
