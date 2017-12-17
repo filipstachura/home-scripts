@@ -11,13 +11,14 @@ var parse_basket = function(basket) {
       return x.split(",");
     })
     .filter(function(x) {
-      return (x.length == 2);
+      return (x.length == 3);
     })
     .slice(1)
     .map(function(x) {
       return {
         name: x[0],
-        grams: x[1]
+        full_name: x[1],
+        grams: x[2]
       }
     })
   return products;

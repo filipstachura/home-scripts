@@ -10,6 +10,8 @@ npm install -g casperjs # NPM / Ubuntu
 brew install casperjs # MAC
 
 R -e "install.packages('mailR')"
+R -e "install.packages('rvest')"
+R -e "install.packages('openxlsx')"
 ```
 
 

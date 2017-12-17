@@ -1,4 +1,61 @@
-food,grams
-pomidory,200
-cukinia,600
-kawa tchibo ziarnista,1000
+"food","shop_id","full","grams"
+"Pomidor","pomidor-czerwony/208526"," Pomidor ",2660
+"Rzodkiewka",""," Rzodkiewka (8.4 sztuk) ",126
+"Papryka czerwona",""," Papryka czerwona (1.8 sztuki) ",350
+"Szczypiorek pęczek",""," Szczypiorek pęczek (1.4 pęczek) ",56
+"Brokuły",""," Brokuły ",630
+"Marchew",""," Marchew ",826
+"Cebula",""," Cebula (2.4 sztuki) ",217
+"Chrzan",""," Chrzan (5.6 łyżeczki) ",56
+"Mix sałat",""," Mix sałat (2.8 porcje) ",112
+"Ziemniaki",""," Ziemniaki (4.2 sztuki) ",315
+"Seler korzeniowy",""," Seler korzeniowy ",28
+"Pietruszka, korzeń",""," Pietruszka, korzeń ",28
+"Natka pietruszki siekana",""," Natka pietruszki siekana (2.8 łyżeczki) ",16.8
+"Pomidory w puszce",""," Pomidory w puszce (0.9 szklanki) ",268.8
+"Jabłko",""," Jabłko ",1358
+"Banan",""," Banan ",168
+"Kiwi",""," Kiwi (5.6 sztuki) ",420
+"Morele",""," Morele (9.8 sztuk) ",441
+"Dżem truskawkowy, niskosłodzony",""," Dżem truskawkowy, niskosłodzony ",42
+"Oliwki czarne marynowane",""," Oliwki czarne marynowane (25.2 sztuk) ",63
+"Truskawki mrożone",""," Truskawki mrożone ",140
+"Mleko UHT, 1,5% tłuszczu",""," Mleko UHT, 1,5% tłuszczu (4.5 szklanki) ",1008
+"Ser twarogowy chudy",""," Ser twarogowy chudy (5.6 łyżki stołowe) ",112
+"Mozzarella",""," Mozzarella (22.4 plastrów) ",336
+"Jogurt naturalny 2% tłuszczu",""," Jogurt naturalny 2% tłuszczu (30.3 łyżki stołowej) ",756
+"Serek wiejski 'light'",""," Serek wiejski ""light"" (31.5 łyżki stołowej) ",630
+"Ser Gouda",""," Ser Gouda (2.8 plastry) ",70
+"Serek topiony w trójkącikach",""," Serek topiony w trójkącikach (5.6 sztuki) ",140
+"Kefir 2% tłuszczu",""," Kefir 2% tłuszczu (2.8 szklanki) ",672
+"Polędwica sopocka",""," Polędwica sopocka ",386.4
+"Wołowina, polędwica mielona",""," Wołowina, polędwica mielona (1.4 szklanka) ",280
+"Mięso z piersi kurczaka, bez skóry",""," Mięso z piersi kurczaka, bez skóry ",700
+"Chleb żytni razowy",""," Chleb żytni razowy (37.8 kromek) ",1512
+"Chleb chrupki",""," Chleb chrupki ",56
+"Kajzerki",""," Kajzerki (0.7 sztuki) ",35
+"Migdały",""," Migdały (21 sztuk) ",21
+"Migdały, płatki",""," Migdały, płatki (8.4 łyżek stołowych) ",84
+"Herbata, napar bez cukru",""," Herbata, napar bez cukru (7 szklanek) ",1680
+"Sok grejpfrutowy",""," Sok grejpfrutowy ",336
+"Woda mineralna niegazowana",""," Woda mineralna niegazowana (32.5 szklanki) ",7756
+"Margaryna miękka, 60% tłuszczu",""," Margaryna miękka, 60% tłuszczu (14.7 łyżeczki) ",72.8
+"Oliwa z oliwek",""," Oliwa z oliwek (9.8 łyżek stołowych) ",98
+"Musli z owocami suszonymi",""," Musli z owocami suszonymi (14 łyżek stołowych) ",140
+"Wafle ryżowe",""," Wafle ryżowe ",28
+"Płatki owsiane górskie",""," Płatki owsiane górskie (7 łyżek stołowych) ",70
+"Kasza gryczana sucha",""," Kasza gryczana sucha ",140
+"Ryż brązowy surowy",""," Ryż brązowy surowy ",44.8
+"Makaron razowy spaghetti, surowy",""," Makaron razowy spaghetti, surowy ",140
+"Cukier",""," Cukier (2.8 łyżeczki) ",16.8
+"Jaja kurze surowe",""," Jaja kurze surowe (2.8 sztuki) ",140
+"Zioła prowansalskie",""," Zioła prowansalskie (5.6 łyżeczki) ",16.8
+"Oregano",""," Oregano (5.6 łyżeczki) ",11.2
+"Majonez 'light'",""," Majonez ""light"" (2.8 łyżki stołowe) ",70
+"Czosnek duży",""," Czosnek duży (3.5 ząbka) ",18.2
+"Przyprawa 'Gyros'",""," Przyprawa ""Gyros"" (2.8 łyżeczki) ",14
+"Bazylia suszona",""," Bazylia suszona (1.4 łyżeczka) ",5.6
+"Sól o obniżonej zawartości sodu",""," Sól o obniżonej zawartości sodu (2.8 szczypty) ",1.4
+"Pieprz czarny",""," Pieprz czarny (0.7 szczypty) ",1.4
+"Bazylia świeża",""," Bazylia świeża (1.4 gałązka) ",7
+"Wywar warzywny",""," Wywar warzywny (4.9 szklanki) ",1176

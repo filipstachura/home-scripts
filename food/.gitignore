@@ -1,3 +1,6 @@
 .multisport.pass
 .piotripawel.pass
 plan.json
+~*.xlsx
+*.xlsx
+DietMap.html

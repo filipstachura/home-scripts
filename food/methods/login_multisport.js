@@ -10,6 +10,6 @@ login_multisport = function() {
       'input[name="tx_benefitattractionfeuser_login[username]"]': 'fylyps@gmail.com',
       'input[name="tx_benefitattractionfeuser_login[password]"]': password
     }, true);
-    this.echo("submitted");
+    this.echo("Logging in to multisport.");
   });
 }
