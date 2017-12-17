@@ -1,58 +1,26 @@
 "food","shop_id","full","grams"
-"Pomidor","pomidor-czerwony/208526"," Pomidor ",2716
-"Papryka czerwona","papryka-czerwona/208546"," Papryka czerwona (2.8 sztuki) ",560
-"Sałata masłowa",NA," Sałata masłowa (4.2 liście) ",21
-"Pomidory w puszce","pomidory-piotr-i-pawel-krojone-bez-skorki/253955"," Pomidory w puszce (1.4 szklanka) ",336
-"Marchew","marchew-luz/208541"," Marchew ",28
-"Cebula","cebula-luz/214659"," Cebula (0.9 sztuki) ",70
-"Natka pietruszki siekana","pietruszka-natka/208544"," Natka pietruszki siekana (3.5 łyżeczki) ",19.6
-"Sałata lodowa",NA," Sałata lodowa (22.4 liści) ",896
-"Kukurydza, konserwowa",NA," Kukurydza, konserwowa (8.4 łyżek stołowych) ",126
-"Ogórek szklarniowy",NA," Ogórek szklarniowy ",109.2
-"Ziemniaki","ziemniak-myty-2-5-kg/234098"," Ziemniaki (4.2 sztuki) ",315
-"Cebula czerwona",NA," Cebula czerwona ",84
-"Cebula dymka",NA," Cebula dymka (0.7 sztuki) ",14
-"Jabłko","jablka-ligol/265531"," Jabłko ",490
-"Banan","banany/208527"," Banan ",168
-"Kiwi","kiwi/208534"," Kiwi (4.2 sztuki) ",315
-"Mandarynki",NA," Mandarynki (2.8 sztuki) ",182
-"Morele","mandarynka/221942"," Morele (1.4 sztuka) ",63
-"Truskawki mrożone","truskawki/262591"," Truskawki mrożone ",350
-"Oliwki czarne marynowane","piotr-i-pawel-oliwki-czarne-drylowane/262904"," Oliwki czarne marynowane (29.4 sztuk) ",74.2
-"Mleko UHT, 1,5% tłuszczu","mleko-wiejskie-bez-laktozy-butelka/238876"," Mleko UHT, 1,5% tłuszczu (4.2 szklanki) ",966
-"Jogurt naturalny 2% tłuszczu","jogurt-naturalny-primo-bez-laktozy/277593"," Jogurt naturalny 2% tłuszczu (33.1 łyżki stołowej) ",826
-"Serek wiejski 'light'","serek-wiejski-naturalny/39081"," Serek wiejski ""light"" (10.5 łyżki stołowej) ",210
-"Ser Gouda","ser-gouda-serenada-lekka/216071"," Ser Gouda (5.6 plastry) ",140
-"Śmietana 12% tłuszczu",NA," Śmietana 12% tłuszczu (1.4 łyżka stołowa) ",25.2
-"Maślanka naturalna 0,5 % tłuszczu",NA," Maślanka naturalna 0,5 % tłuszczu (2.8 szklanki) ",672
-"Mozzarella","mozzarella-kula-piotr-i-pawel/251678"," Mozzarella (4.2 plastry) ",63
-"Kefir 2% tłuszczu","kefir-bez-laktozy-robico/281477"," Kefir 2% tłuszczu (1.4 szklanka) ",336
-"Polędwica sopocka","poledwica-sopocka-olewnik/223441"," Polędwica sopocka ",50.4
-"Szynka z piersi kurczaka",NA," Szynka z piersi kurczaka (25.2 plastrów) ",378
-"Mięso z piersi kurczaka, bez skóry","filet-z-piersi-kurczaka-swiezy/208619"," Mięso z piersi kurczaka, bez skóry ",560
-"Chleb żytni razowy","chleb-zytni-nadarzyn/282968"," Chleb żytni razowy (37.8 kromek) ",1512
-"Herbata, napar bez cukru","herbata-tetley-golden-czarna-100-2g/272443"," Herbata, napar bez cukru (5.6 szklanki) ",1344
-"Sok grejpfrutowy","sok-z-czerwonych-grejpfrutow-100/279799"," Sok grejpfrutowy ",336
-"Woda mineralna niegazowana",""," Woda mineralna niegazowana (23.8 szklanek) ",5712
-"Świeży sok grejpfrutowy",NA," Świeży sok grejpfrutowy ",672
-"Margaryna miękka, 60% tłuszczu","maslo-ekstra/211842"," Margaryna miękka, 60% tłuszczu (13.3 łyżeczki) ",67.2
-"Oliwa z oliwek","oliwa-salvadori-z-oliwek-sansa/211891"," Oliwa z oliwek (12.9 łyżki stołowej) ",130.2
-"Olej rzepakowy uniwersalny",NA," Olej rzepakowy uniwersalny (2.3 łyżki stołowej) ",23.8
-"Musli z owocami suszonymi","musli-wieloowocowe-benus/271155"," Musli z owocami suszonymi (14 łyżek stołowych) ",140
-"Wafle ryżowe","wafle-ryzowe-naturalne-piotr-i-pawel/266092"," Wafle ryżowe ",140
-"Płatki owsiane górskie","platki-owsiane-gorskie-piotr-i-pawel/262202"," Płatki owsiane górskie (4.2 łyżki stołowe) ",42
-"Ryż brązowy surowy","ryz-brazowy-dlugoziarnisty-bio-planet/234634"," Ryż brązowy surowy ",112
-"Łosoś wędzony na zimno",NA," Łosoś wędzony na zimno (2.8 płaty) ",70
-"Dorsz, świeży, filety bez skóry",NA," Dorsz, świeży, filety bez skóry ",168
-"Migdały, płatki","migdaly-kresto/13861"," Migdały, płatki (2.8 łyżki stołowe) ",28
-"Jajko kurze gotowane",NA," Jajko kurze gotowane (2.8 sztuki) ",140
-"Jaja kurze surowe","jajka-z-chowu-na-wolnym-wybiegu-l-piotr-i-pawel/269093"," Jaja kurze surowe (2.8 sztuki) ",140
-"Wywar warzywno-drobiowy",NA," Wywar warzywno-drobiowy (2.3 szklanki) ",504
-"Koncentrat pomidorowy, 30%",NA," Koncentrat pomidorowy, 30% (2.8 łyżeczki) ",42
-"Czosnek duży","czosnek-szt/262034"," Czosnek duży (5.6 ząbki) ",28
-"Sok z cytryny",NA," Sok z cytryny (4.5 łyżeczki) ",14
-"Koperek siekany",NA," Koperek siekany (0.7 łyżki stołowej) ",5.6
-"Rozmaryn suszony",NA," Rozmaryn suszony (2.1 łyżeczki) ",7
-"Sól o obniżonej zawartości sodu",""," Sól o obniżonej zawartości sodu (5.6 szczypty) ",2.8
-"Oregano",""," Oregano (9.8 łyżeczek) ",19.6
-"Zioła prowansalskie","piotr-i-pawel-ziola-prowansalskie/262476"," Zioła prowansalskie (5.6 łyżeczki) ",16.8
+"Papryka czerwona","papryka-czerwona/208546"," Papryka czerwona (2.8 sztuki) ","560"
+"Sałata lodowa","salata-lodowa/208538"," Sałata lodowa (22.4 liści) ","896"
+"Ziemniaki","ziemniak-myty-2-5-kg/234098"," Ziemniaki (4.2 sztuki) ","315"
+"Cebula czerwona","cebula-czerwona-luz/208579"," Cebula czerwona ","84"
+"Cebula dymka","cebulka-szczypior/225105"," Cebula dymka (0.7 sztuki) ","14"
+"Banan","banany/208527"," Banan ","168"
+"Kiwi","kiwi/208534"," Kiwi (4.2 sztuki) ","315"
+"Truskawki mrożone","truskawki/262591"," Truskawki mrożone ","200"
+"Oliwki czarne marynowane","piotr-i-pawel-oliwki-czarne-drylowane/262904"," Oliwki czarne marynowane (29.4 sztuk) ","74.2"
+"Jogurt naturalny 2% tłuszczu","jogurt-naturalny-primo-bez-laktozy/277593"," Jogurt naturalny 2% tłuszczu (33.1 łyżki stołowej) ","826"
+"Serek wiejski 'light'","serek-wiejski-naturalny/39081"," Serek wiejski ""light"" (10.5 łyżki stołowej) ","210"
+"Ser Gouda","ser-gouda-serenada-lekka/216071"," Ser Gouda (5.6 plastry) ","140"
+"Śmietana 12% tłuszczu","smietana-piatnica-12-do-salatek-sosow-zup/259379"," Śmietana 12% tłuszczu (1.4 łyżka stołowa) ","25.2"
+"Maślanka naturalna 0,5 % tłuszczu","kefir-bez-laktozy-robico/281477"," Maślanka naturalna 0,5 % tłuszczu (2.8 szklanki) ","672"
+"Szynka z piersi kurczaka","piersi-z-kurczat-w-curry-tylko-w-plastrach/280196"," Szynka z piersi kurczaka (25.2 plastrów) ","378"
+"Mięso z piersi kurczaka, bez skóry","filet-z-piersi-kurczaka-swiezy/208619"," Mięso z piersi kurczaka, bez skóry ","560"
+"Margaryna miękka, 60% tłuszczu","maslo-ekstra/211842"," Margaryna miękka, 60% tłuszczu (13.3 łyżeczki) ","67.2"
+"Musli z owocami suszonymi","musli-wieloowocowe-benus/271155"," Musli z owocami suszonymi (14 łyżek stołowych) ","140"
+"Wafle ryżowe","wafle-ryzowe-naturalne-piotr-i-pawel/266092"," Wafle ryżowe ","140"
+"Łosoś wędzony na zimno","losos-wedzony-brzuszki/240691"," Łosoś wędzony na zimno (2.8 płaty) ","70"
+"Dorsz, świeży, filety bez skóry","filet-z-dorsza-frosta/246337"," Dorsz, świeży, filety bez skóry ","168"
+"Koncentrat pomidorowy, 30%","koncentrat-pomidorowy-rolnik/201841"," Koncentrat pomidorowy, 30% (2.8 łyżeczki) ","42"
+"Czosnek duży","czosnek-szt/262034"," Czosnek duży (5.6 ząbki) ","28"
+"Sok z cytryny","cytryny/208529"," Sok z cytryny (4.5 łyżeczki) ","14"
+"Rozmaryn suszony","rozmaryn-kamis/200373"," Rozmaryn suszony (2.1 łyżeczki) ","7"
