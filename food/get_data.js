@@ -10,9 +10,15 @@ var casper = casper.create({
     }
 });
 
-casper.on('remote.message', function(msg) {
-  this.echo('remote message caught: ' + msg);
-})
+var args = casper.cli.args;
+var DEBUG = args[0];
+
+if (DEBUG) {
+  console.log("==== DEBUG MODE ====")
+  casper.on('remote.message', function(msg) {
+    this.echo('remote message caught: ' + msg);
+  })
+}
 
 var base_url = 'https://multisportdiet.pl';
 var start_url = 'https://www.kartamultisport.pl/loginsu/?callback=https://multisportdiet.pl/pl/';
