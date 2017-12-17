@@ -1,8 +1,7 @@
 var casper = require("casper");
 var fs = require('fs');
 var utils = require('utils');
-
-var password = fs.read('.multisport.pass');
+require('./methods/login_multisport.js');
 
 var casper = casper.create({
     pageSettings: {
@@ -21,16 +20,8 @@ if (DEBUG) {
 }
 
 var base_url = 'https://multisportdiet.pl';
-var start_url = 'https://www.kartamultisport.pl/loginsu/?callback=https://multisportdiet.pl/pl/';
 
-casper.start(start_url);
-casper.waitForSelector('form', function() {
-  this.fillSelectors('form', {
-    'input[name="tx_benefitattractionfeuser_login[username]"]': 'fylyps@gmail.com',
-    'input[name="tx_benefitattractionfeuser_login[password]"]': password
-  }, true);
-  this.echo("submitted");
-});
+login_multisport();
 
 casper.waitForSelector('a.lock-screen.kslider-next', function() {
   this.click('a.lock-screen.kslider-next');

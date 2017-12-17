@@ -1,8 +1,8 @@
 var casper = require("casper");
 var fs = require('fs');
 var utils = require('utils');
+require('./methods/login_piotripawel.js');
 
-var password = fs.read('.piotripawel.pass');
 var basket = fs.read('basket.csv');
 
 var parse_basket = function(basket) {
@@ -36,23 +36,7 @@ casper.on('remote.message', function(msg) {
   this.echo('remote message caught: ' + msg);
 })
 
-var start_url = 'https://m.e-piotripawel.pl/';
-
-casper.start(start_url);
-casper.waitForSelector('#login-form', function() {
-  this.fillSelectors('form#login-form', {
-    'input[name="StoreLoginForm[username]"]': 'kw_kamila',
-    'input[name="StoreLoginForm[password]"]': password
-  }, true);
-  this.echo("Logging in");
-});
-
-casper.waitForSelectorTextChange('.logged', function() {
-  var text = this.evaluate(function() {
-    return $('li.logged > a[href="/klient/szczegoly"]').html();
-  })
-  console.log("Logged in: " + text);
-}, function() {console.log("time out")}, 20000 );
+login_piotripawel();
 
 add_to_cart_product = function(product) {
   casper.waitForSelector('.FormSzukaj', function() {

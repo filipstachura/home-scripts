@@ -28,7 +28,7 @@ function save_stamp {
 }
 
 function send_update_with_data {
-  casperjs ./get_data.js $DEBUG
+  casperjs ./dietplan_to_json.js $DEBUG
   Rscript ./mail_plan.R
 }
 
